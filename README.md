@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying in a first year of fundamental Physic Master
+- 👯 I'm now in a  six weeks internship in the Centre de recherche Astrophysique de Lyon (CRAL)
+- 🌱 I’m currently learning programming language Julia 
 <!--
 **Marie-Nivedhan/Marie-Nivedhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
